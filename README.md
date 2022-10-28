@@ -1,5 +1,6 @@
 ## Introduction
 게임 디자이너 및 클라이언트 개발자를 목표로 하는 이아연입니다:smile:
+
 |이름|생년월일|나이(만 나이)|성별|대학|
 |---|---|---|---|---|
 |이아연|여성|23(22)|2000.03.11|국민대학교 소프트웨어전공(휴학중)|
@@ -7,40 +8,60 @@
 
 ## Completetd Projects
 ### 1. _국냥 디펜스(2020)_
+_타워 디펜스_, _학교 배경_
+
 github: https://github.com/leeZn30/KookCatDefense
+
 학교 과제로 유니티를 사용해서 만든 첫 게임입니다.
+
 플레이 영상
+
 |파트|담당 업무|
 |---|----|
 |기획|게임 콘셉트 기획, 타워 일반 스킬 및 특수 스킬 기획|
 |프로그래밍|타워 일반 스킬 및 특수 스킬 구현|
 
+
 ### 2. _Rhythm Clock(2021)_
-github: https://github.com/leeZn30/Rhythm-Clock
 _리듬 게임_, _2개월 프로젝트_
+
+github: https://github.com/leeZn30/Rhythm-Clock
+
 판도라 큐브 동아리 꼬꼬마 프로젝트에서 팀의 PM으로서 2개월간 만든 작품입니다.
+
 플레이 영상
+
 |파트|담당 업무|
 |---|----|
 |기획|PM, 게임 시스템/콘텐츠 기획, 시나리오 기획, 채보 작성, 스크립트 작성|
 |프로그래밍|게임 전체 흐름 구현, 캐릭터 애니메이션 구현|
 
+
 ### 3. _내일의 내 일(2021)_
-github: https://github.com/leeZn30/Tomorrow-My-Work
 _퍼즐_, _캐쥬얼_, _48시간 프로젝트_
+
+github: https://github.com/leeZn30/Tomorrow-My-Work
+
 판도라 큐브 동아리 48시간 게임잼에 참가하여 팀의 PM으로서 4명의 팀원과 48시간동안 만든 작품입니다.
+
 플레이 영상
+
 |파트|담당 업무|
 |---|----|
 |기획|PM, 시스템 및 퍼즐 기획, 시나리오 기획|
 |프로그래밍|게임 흐름 구현|
 
+
 ### 4. _MetaBusking(2022)_
-github: https://github.com/leeZn30/capstone-2022-11
 _메타버스_, _멀티 플레이_, _화상 공유 스트리밍_, _Agora_, _Photon_
+
+github: https://github.com/leeZn30/capstone-2022-11
+
 졸업작품으로 만든 온라인 음원 공유 및 라이브 스트리밍 서비스입니다.
+
 홍보 영상
 https://www.youtube.com/watch?v=4LIrBIBZt6s&list=PL--pUG4naVyfb9n-smmZTJ0xrnYqgyg22&index=3
+
 |파트|담당 업무|
 |---|----|
 |기획|프로젝트 콘텐츠 및 시스템 기획|
