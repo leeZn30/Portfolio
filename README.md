@@ -11,7 +11,7 @@
 
 ### 1. [_국냥 디펜스(2020)_](https://github.com/leeZn30/KookCatDefense)
 
-_타워 디펜스_, _학교 배경_
+##### _타워 디펜스_, _학교 배경_
 
 학교 과제로 유니티를 사용해서 만든 첫 게임입니다.
 
@@ -25,7 +25,7 @@ _타워 디펜스_, _학교 배경_
 
 ### 2. [_Rhythm Clock(2021)_](https://github.com/leeZn30/Rhythm-Clock)
 
-#### _리듬 게임_, _2개월 프로젝트_
+##### _리듬 게임_, _2개월 프로젝트_
 
 판도라 큐브 동아리 꼬꼬마 프로젝트에서 팀의 PM으로서 2개월간 만든 작품입니다.
 
@@ -39,7 +39,7 @@ _타워 디펜스_, _학교 배경_
 
 ### 3. [_내일의 내 일(2021)_](https://github.com/leeZn30/Tomorrow-My-Work)
 
-#### _퍼즐_, _캐쥬얼_, _48시간 프로젝트_
+##### _퍼즐_, _캐쥬얼_, _48시간 프로젝트_
 
 판도라 큐브 동아리 48시간 게임잼에 참가하여 팀의 PM으로서 4명의 팀원과 48시간동안 만든 작품입니다.
 
@@ -53,7 +53,7 @@ _타워 디펜스_, _학교 배경_
 
 ### 4. [_MetaBusking(2022)_](https://github.com/leeZn30/capstone-2022-11)
 
-#### _메타버스_, _멀티 플레이_, _화상 공유 스트리밍_, _Agora_, _Photon_
+##### _메타버스_, _멀티 플레이_, _화상 공유 스트리밍_, _Agora_, _Photon_
 
 졸업작품으로 만든 온라인 음원 공유 및 라이브 스트리밍 서비스입니다.
 
@@ -64,41 +64,3 @@ https://www.youtube.com/watch?v=4LIrBIBZt6s&list=PL--pUG4naVyfb9n-smmZTJ0xrnYqgy
 |---|----|
 |기획|프로젝트 콘텐츠 및 시스템 기획|
 |프로그래밍|공원 클라이언트 구현, 화상 라이브 스트리밍 서비스 구현, 멀티 플레이 구현|
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/leeZn30/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leeZn30/Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
