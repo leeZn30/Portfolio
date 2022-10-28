@@ -1,4 +1,5 @@
 ## Introduction
+
 게임 디자이너 및 클라이언트 개발자를 목표로 하는 이아연입니다:smile:
 
 |이름|생년월일|나이(만 나이)|성별|대학|
@@ -7,7 +8,9 @@
 
 
 ## Completetd Projects
+
 ### 1. _국냥 디펜스(2020)_
+
 _타워 디펜스_, _학교 배경_
 
 github: https://github.com/leeZn30/KookCatDefense
@@ -23,6 +26,7 @@ github: https://github.com/leeZn30/KookCatDefense
 
 
 ### 2. _Rhythm Clock(2021)_
+
 _리듬 게임_, _2개월 프로젝트_
 
 github: https://github.com/leeZn30/Rhythm-Clock
@@ -38,6 +42,7 @@ github: https://github.com/leeZn30/Rhythm-Clock
 
 
 ### 3. _내일의 내 일(2021)_
+
 _퍼즐_, _캐쥬얼_, _48시간 프로젝트_
 
 github: https://github.com/leeZn30/Tomorrow-My-Work
@@ -53,6 +58,7 @@ github: https://github.com/leeZn30/Tomorrow-My-Work
 
 
 ### 4. _MetaBusking(2022)_
+
 _메타버스_, _멀티 플레이_, _화상 공유 스트리밍_, _Agora_, _Photon_
 
 github: https://github.com/leeZn30/capstone-2022-11
