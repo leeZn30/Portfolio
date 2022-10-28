@@ -9,11 +9,9 @@
 
 ## Completetd Projects
 
-### 1. _국냥 디펜스(2020)_
+### 1. [_국냥 디펜스(2020)_](https://github.com/leeZn30/KookCatDefense)
 
 _타워 디펜스_, _학교 배경_
-
-github: https://github.com/leeZn30/KookCatDefense
 
 학교 과제로 유니티를 사용해서 만든 첫 게임입니다.
 
@@ -25,11 +23,9 @@ github: https://github.com/leeZn30/KookCatDefense
 |프로그래밍|타워 일반 스킬 및 특수 스킬 구현|
 
 
-### 2. _Rhythm Clock(2021)_
+### 2. [_Rhythm Clock(2021)_](https://github.com/leeZn30/Rhythm-Clock)
 
-_리듬 게임_, _2개월 프로젝트_
-
-github: https://github.com/leeZn30/Rhythm-Clock
+#### _리듬 게임_, _2개월 프로젝트_
 
 판도라 큐브 동아리 꼬꼬마 프로젝트에서 팀의 PM으로서 2개월간 만든 작품입니다.
 
@@ -41,11 +37,9 @@ github: https://github.com/leeZn30/Rhythm-Clock
 |프로그래밍|게임 전체 흐름 구현, 캐릭터 애니메이션 구현|
 
 
-### 3. _내일의 내 일(2021)_
+### 3. [_내일의 내 일(2021)_](https://github.com/leeZn30/Tomorrow-My-Work)
 
-_퍼즐_, _캐쥬얼_, _48시간 프로젝트_
-
-github: https://github.com/leeZn30/Tomorrow-My-Work
+#### _퍼즐_, _캐쥬얼_, _48시간 프로젝트_
 
 판도라 큐브 동아리 48시간 게임잼에 참가하여 팀의 PM으로서 4명의 팀원과 48시간동안 만든 작품입니다.
 
@@ -57,11 +51,9 @@ github: https://github.com/leeZn30/Tomorrow-My-Work
 |프로그래밍|게임 흐름 구현|
 
 
-### 4. _MetaBusking(2022)_
+### 4. [_MetaBusking(2022)_](https://github.com/leeZn30/capstone-2022-11)
 
-_메타버스_, _멀티 플레이_, _화상 공유 스트리밍_, _Agora_, _Photon_
-
-github: https://github.com/leeZn30/capstone-2022-11
+#### _메타버스_, _멀티 플레이_, _화상 공유 스트리밍_, _Agora_, _Photon_
 
 졸업작품으로 만든 온라인 음원 공유 및 라이브 스트리밍 서비스입니다.
 
