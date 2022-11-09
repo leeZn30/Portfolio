@@ -63,4 +63,4 @@ https://www.youtube.com/watch?v=4LIrBIBZt6s&list=PL--pUG4naVyfb9n-smmZTJ0xrnYqgy
 |파트|담당 업무|
 |---|----|
 |기획|프로젝트 콘텐츠 및 시스템 기획|
-|프로그래밍|공원 클라이언트 구현, 화상 라이브 스트리밍 서비스 구현, 멀티 플레이 구현|
+|프로그래밍|공원 클라이언트 구현, 화상 라이브 스트리밍 서비스 구현, Photon을 이용한 멀티 플레이 구현|
