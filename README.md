@@ -61,8 +61,7 @@
 
 전체 작품 중 3등을 수상하였습니다.
 
-홍보 영상
-https://www.youtube.com/watch?v=4LIrBIBZt6s&list=PL--pUG4naVyfb9n-smmZTJ0xrnYqgyg22&index=3
+[홍보 영상](https://www.youtube.com/watch?v=4LIrBIBZt6s&list=PL--pUG4naVyfb9n-smmZTJ0xrnYqgyg22&index=3)
 
 |파트|담당 업무|
 |---|----|
