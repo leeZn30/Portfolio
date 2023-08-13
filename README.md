@@ -23,7 +23,7 @@
 |프로그래밍|타워 일반 스킬 및 특수 스킬 구현|
 
 
-### 2. [_Rhythm Clock(2021)_](https://github.com/leeZn30/Rhythm-Clock)
+### 2. [_Rhythm Clock(2022)_](https://github.com/leeZn30/Rhythm-Clock)
 
 ##### _리듬 게임_, _2개월 프로젝트_
 
@@ -37,7 +37,7 @@
 |프로그래밍|게임 전체 흐름 구현, 캐릭터 애니메이션 구현|
 
 
-### 3. [_내일의 내 일(2021)_](https://github.com/leeZn30/Tomorrow-My-Work)
+### 3. [_내일의 내 일(2022)_](https://github.com/leeZn30/Tomorrow-My-Work)
 
 ##### _퍼즐_, _캐쥬얼_, _48시간 프로젝트_
 
